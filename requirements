@@ -1,0 +1,85 @@
+# ============================================================
+
+# KNN Classifier From Scratch
+
+# Project Dependencies
+
+# ============================================================
+
+#
+
+# Python Version:
+
+# Python 3.10 or higher
+
+#
+
+# Development Environment:
+
+# Visual Studio Code
+
+#
+
+# ============================================================
+
+#
+
+# THIRD-PARTY DEPENDENCIES
+
+# ============================================================
+
+#
+
+# No third-party Python packages are required.
+
+#
+
+# The project uses only the Python Standard Library.
+
+#
+
+# ============================================================
+
+#
+
+# STANDARD LIBRARY MODULES USED
+
+# ============================================================
+
+#
+
+# math
+
+#
+
+# The math module is used for calculating the square root
+
+# required for Euclidean Distance.
+
+#
+
+# The math module is included with Python and does not need
+
+# to be installed separately.
+
+#
+
+# ============================================================
+
+#
+
+# EXECUTION
+
+# ============================================================
+
+#
+
+# Run the project using:
+
+#
+
+# python knn_classifier.py
+
+#
+
+# ============================================================
